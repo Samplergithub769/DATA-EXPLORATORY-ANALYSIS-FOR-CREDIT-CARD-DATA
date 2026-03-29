@@ -1,2 +1,2 @@
 ## Case Study Questions
-You can download the questions PDF (D:\docs\Credit Card Case Study.pdf)
+You can download the questions PDF (Credit Card Case Study.pdf)
